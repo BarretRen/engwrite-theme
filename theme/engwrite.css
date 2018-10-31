@@ -279,7 +279,10 @@ table tr:nth-child(2n) {
 =============================================================================*/
 
 img {
-  max-width: 100%
+  max-width: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 </style>
 <style type="text/css">
